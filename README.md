@@ -3,3 +3,14 @@ Im Wirtschaftskurs der zehnten Klasse am Kaifu Gymnasium wurden vier Schülerunt
 Das Unternehmen besteht aus zehn kreativen Köpfen, die beschlossen haben, Turnbeutel mit einem einheitlichen Designkonzept zu verkaufen. Unsere Turnbeutel bestellen wir und lassen diese seperat bedrucken. Der moderne schwarz-weiß Stil zieht sich durch all unsere Motive.
 
 Momentan unter http://beuteltier.github.io/ erreichbar.
+
+### Impressum
+Unternehmen des JUNIOR Projekts (<a href="http://www.junior-programme.de">www.junior-programme.de</a>)
+<br>
+<br>
+Telefon: +49 1729549378
+<br>
+E-Mail: <a href="mailto:beuteltier.manufaktur@gmail.com">beuteltier.manufaktur@gmail.com</a>
+<br>
+<br>
+Website by Christoph Mohr & Keno Löwenherz
