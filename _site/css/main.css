@@ -1,6 +1,6 @@
 body {
   background: #000000;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Thin', sans-serif;
   color: #ffffff;
 }
 
@@ -26,4 +26,73 @@ a{
   font-size: 40px;
   margin-top: 0px;
   margin-bottom: 0px;
+  }
+
+.title-pic {
+  margin-bottom: 50px;
+}
+
+
+.beutel-kasten {
+/*
+  width: 238px;
+  height: 303px;
+*/
+  border: 2px solid #ffffff;
+  margin: 25px;
+
+
+
+  /*
+  padding: 15px;
+
+
+  padding-top: 20px;
+  float: left;*/
+}
+
+.beutel-oben {
+  padding-top: 50px;
+}
+
+.beutel-unten {
+  padding-top: 20px;
+}
+
+.unten {
+  margin-top: 150px;
+}
+
+.uns {
+  width: 200px;
+  border: 2px solid #ffffff;
+  padding: 15px;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 30pt;
+  color: #ffffff;
+}
+
+.uns-text {
+  font-family: 'Roboto Thin', sans-serif;
+  font-size: 25pt;
+  text-align: left;
+  margin-left: 20%;
+  margin-right: 20%
+  }
+
+  .impressum {
+    width: 200px;
+    padding: 15px;
+    border: 2px solid #ffffff;
+    margin: 25px;
+    border-radius: 25px;
+    position: absolute;
+    margin-left: 20%
+  }
+
+  .impressum-in {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
