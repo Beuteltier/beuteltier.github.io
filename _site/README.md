@@ -1,2 +1,2 @@
-# beuteltier webseite
+# Beuteltier
 Im Wirtschaftskurs der zehnten Klasse am Kaifu Gymnasium wurden vier Schülerunternehmen gegründet, wir sind eines davon. Alle Unternehmen unserer Schule nehmen an JUNIOR Expert teil. JUNIOR Expert ermöglicht uns, in der befristeten Zeit eines Schuljahres ein Unternehmen zu gründen. Das Ziel ist, praktische und realitätsnahe Erfahrungen mit der Unternehmensgrün-dung für das Berufsleben zu machen. Das Unternehmen besteht aus zehn kreativen Köpfen, die beschlossen haben, Turnbeutel mit einem einheitlichen Designkonzept zu machen. Unsere Turnbeutel bestellen wir und lassen wir bedrucken. Hiermit wollen wir eine Sicherheit bezüglich des Preises und der Qualität erlangen, die beim Selbstnähen eventuell nicht gewährleistet werden könnte.
