@@ -4,6 +4,12 @@ body {
   color: #ffffff;
 }
 
+a{
+  color: #ffffff;
+  text-decoration: none;
+  text-underline: none;
+}
+
 .content-head {
   font-size: 70px;
 }
