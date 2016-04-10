@@ -34,29 +34,7 @@ a{
 
 
 .beutel-kasten {
-/*
-  width: 238px;
-  height: 303px;
-*/
-  border: 2px solid #ffffff;
   margin: 25px;
-
-
-
-  /*
-  padding: 15px;
-
-
-  padding-top: 20px;
-  float: left;*/
-}
-
-.beutel-oben {
-  padding-top: 50px;
-}
-
-.beutel-unten {
-  padding-top: 20px;
 }
 
 .unten {
@@ -95,4 +73,9 @@ a{
     font-size: 40px;
     margin-top: 0px;
     margin-bottom: 0px;
+  }
+
+  .imp-text {
+    font-family: 'Roboto Thin', sans-serif;
+    font-size: 14pt;
   }
