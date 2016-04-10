@@ -1,6 +1,7 @@
 body {
   background: #000000;
-  font-family: 'Roboto Thin', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-style: Thin;
   color: #ffffff;
 }
 
@@ -52,7 +53,8 @@ a{
 }
 
 .uns-text {
-  font-family: 'Roboto Thin', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-style: Thin;
   font-size: 25pt;
   text-align: left;
   margin-left: 20%;
@@ -76,12 +78,14 @@ a{
   }
 
   .imp-text {
-    font-family: 'Roboto Thin', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-style: Thin;
     font-size: 14pt;
   }
 
   .404text{
-    font-family: 'Roboto Thin', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-style: Thin;
     font-size: 16pt;
     margin-top: 0px;
     margin-bottom: 0px;
