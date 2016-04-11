@@ -48,14 +48,14 @@ a{
   padding: 15px;
 
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
   font-size: 30pt;
   color: #ffffff;
 }
 
 .uns-text {
 
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
   font-size: 25pt;
   text-align: left;
   margin-left: 20%;
