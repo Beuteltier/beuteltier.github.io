@@ -1,7 +1,7 @@
 body {
   background: #000000;
   font-family: 'Roboto', sans-serif;
-  font-style: Thin;
+  font-weight: 100;
   color: #ffffff;
 }
 
@@ -48,13 +48,14 @@ a{
   padding: 15px;
 
   font-family: 'Roboto', sans-serif;
+  font-weight: 100;
   font-size: 30pt;
   color: #ffffff;
 }
 
 .uns-text {
 
-  font-family: 'Roboto Thin';
+  font-family: 'Roboto';
   font-size: 25pt;
   text-align: left;
   margin-left: 20%;
@@ -72,7 +73,7 @@ a{
   }
 
   .impressum-in {
-    font-family: 'Roboto Thin', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: italic;
     font-size: 40px;
     margin-top: 0px;
@@ -81,13 +82,11 @@ a{
 
   .imp-text {
     font-family: 'Roboto', sans-serif;
-    font-style: Thin;
     font-size: 14pt;
   }
 
   .404text{
     font-family: 'Roboto', sans-serif;
-    font-style: Thin;
     font-size: 16pt;
     margin-top: 0px;
     margin-bottom: 0px;
