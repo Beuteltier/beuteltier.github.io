@@ -21,6 +21,7 @@ a{
   border: 2px solid #ffffff;
   margin: 25px;
   border-radius: 25px;
+  margin-bottom: 100px;
 }
 
 .buy-in {
@@ -31,11 +32,16 @@ a{
 
 .title-pic {
   margin-bottom: 50px;
+  margin-top: 50px;
 }
 
 
 .beutel-kasten {
   margin: 25px;
+}
+
+.ueber-uns-kasten {
+  margin-top: 50px;
 }
 
 .unten {
@@ -56,14 +62,14 @@ a{
 
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
-  font-size: 25pt;
+  font-size: 19pt;
   text-align: left;
   margin-left: 20%;
   margin-right: 20%
   }
 
   .impressum {
-    width: 200px;
+    width: auto;
     padding: 15px;
     border: 2px solid #ffffff;
     margin: 25px;
@@ -75,7 +81,7 @@ a{
   .impressum-in {
     font-family: 'Roboto', sans-serif;
     font-style: italic;
-    font-size: 40px;
+    font-size: 25px;
     margin-top: 0px;
     margin-bottom: 0px;
   }
