@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /pic/
+Disallow: /404.html
+Disallow: /google8beb5e9e29f5f0cd.html
