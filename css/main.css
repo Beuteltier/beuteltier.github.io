@@ -11,6 +11,11 @@ a{
   text-underline: none;
 }
 
+hr{
+  width: 60%;
+  margin-left: -1%;
+}
+
 .content-head {
   font-size: 70px;
 }
@@ -62,38 +67,70 @@ a{
 
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
-  font-size: 19pt;
+  font-size: 16pt;
   text-align: center;
   margin-left: 20%;
   margin-right: 20%
   }
 
-  .impressum {
-    width: auto;
-    padding: 15px;
-    border: 2px solid #ffffff;
-    margin: 25px;
-    border-radius: 25px;
-    position: absolute;
-    margin-left: 20%
-  }
+.impressum {
+  width: auto;
+  padding: 15px;
+  border: 2px solid #ffffff;
+  margin: 25px;
+  border-radius: 25px;
+  position: absolute;
+  margin-left: 20%
+}
 
-  .impressum-in {
-    font-family: 'Roboto', sans-serif;
-    font-style: italic;
-    font-size: 25px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-  }
+.impressum-in {
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 
-  .imp-text {
-    font-family: 'Roboto', sans-serif;
-    font-size: 14pt;
-  }
+.imp-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14pt;
+}
 
-  .404text{
-    font-family: 'Roboto', sans-serif;
-    font-size: 16pt;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    }
+.404text{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16pt;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.box {
+  width: 150px;
+  padding: 10px;
+  border: 2px solid #ffffff;
+  margin: 25px;
+  border-radius: 25px;
+}
+
+.box-in {
+  font-size: 15pt;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.sub-header {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 20pt;
+}
+
+.produkte {
+  text-align: left;
+  margin-left: 30%;
+
+}
+
+.produkt-foto {
+  float: left;
+  margin-right: 4px;
+
+}
